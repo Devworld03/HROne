@@ -1,0 +1,16 @@
+# secrets and environments
+.env
+venv/
+.venv/
+
+# python junk
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# not part of the submission
+sample_data/
+test_connection.py
+review_notes.md
+.vscode/
+.idea/

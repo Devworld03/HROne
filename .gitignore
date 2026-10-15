@@ -11,6 +11,22 @@ __pycache__/
 # not part of the submission
 sample_data/
 test_connection.py
+check_concurrent.py
+check_expected.py
+check_explain.py
+test_helpers.py
+make_test_data.py
+
 review_notes.md
 .vscode/
 .idea/
+# not part of the submission
+sample_data/
+PROBLEM_STATEMENT.docx
+openapi.yaml
+DATA_MODEL.md
+sample_seed.py
+make_test_data.py
+test_*.py
+check_*.py
+review_notes.md
